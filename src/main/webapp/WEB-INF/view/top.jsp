@@ -6,13 +6,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>ログイン</title>
+    <title>トップ</title>
   </head>
   <body>
-    <form action="login" method="post">
-      <div>
-        <input type="submit" value="ログイン">
-      </div>
-    </form>
+    ようこそ
   </body>
 </html>
